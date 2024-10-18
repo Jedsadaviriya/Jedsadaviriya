@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jedsadaviriya&label=Profile%20views&color=0e75b6&style=flat" alt="jedsadaviriya" /> </p>
 
-- 🔭 I’m currently working on [TimeClock](https://github.com/PetabyteBrain/TimeClock)
+- 🔭 I’m currently working on [TimeClock](https://github.com/PetabyteBrain/TimeClock) and [Python Application](https://github.com/Jedsadaviriya/PyApps/tree/main)
 
 - 🌱 I’m currently learning **Java, Frontend**
 
