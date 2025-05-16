@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Janjao</h1>
+<h1 align="center">Hello, I'm Janjao</h1>
 <h3 align="center">I am currently a Student Learning Application Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jedsadaviriya&label=Profile%20views&color=0e75b6&style=flat" alt="jedsadaviriya" /> </p>
 
-- 🔭 I’m currently working on [TimeClock](https://github.com/PetabyteBrain/TimeClock)
+- 🔭 I’m currently working on [School Managment System](https://github.com/PetabyteBrain/TimeClock) (Still in production and will soon be available)
 
-- 🌱 I’m currently learning **Java, Frontend**
+- 🌱 I’m currently learning **Fullstack development, Databases(Mongodb), Javascript, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jedsadaviriya](https://github.com/Jedsadaviriya)
 
-- ⚡ Fun fact **i think i like Fish**
+- ⚡ Fun fact **I like the word Fish**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
