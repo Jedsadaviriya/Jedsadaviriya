@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jedsadaviriya&label=Profile%20views&color=0e75b6&style=flat" alt="jedsadaviriya" /> </p>
 
-- 🔭 I’m currently working on [School Managment System](https://github.com/PetabyteBrain/TimeClock) (Still in production and will soon be available)
+- 🔭 I’m currently working on [School Managment System](https://github.com/Jedsadaviriya/schoolmanagmentsystem) (Still in production and will soon be available)
 
 - 🌱 I’m currently learning **Fullstack development, Databases(Mongodb), Javascript, Python**
 
