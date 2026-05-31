@@ -1,19 +1,15 @@
-<h1 align="center">Hello, I'm Janjao</h1>
-<h3 align="center">I am currently a Student Learning Application Development</h3>
+<h1 align="center">Hi, I'm Setthawut (Janjao) 👋</h1>
+<h3 align="center">Full-Stack Developer · IT Student · Based in Switzerland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jedsadaviriya&label=Profile%20views&color=0e75b6&style=flat" alt="jedsadaviriya" /> </p>
-
-- 🔭 I’m currently working on [School Managment System](https://github.com/Jedsadaviriya/schoolmanagmentsystem) (Still in production and will soon be available)
-
-- 🌱 I’m currently learning **Fullstack development, Databases(Mongodb), Javascript, Python**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Jedsadaviriya](https://github.com/Jedsadaviriya)
-
-- ⚡ Fun fact **I like the word Fish**
+- 🔭 Currently building: [Digift-Host](digifthost.vercel.app)
+- 🌱 Deepening: TypeScript, system design, DevOps
+- 🌐 Portfolio: [setthawut.ch](https://setthawut.ch)
+- 🇹🇭🇨🇭 Thai–Swiss, fluent in DE / EN, learning FR
+- ⚡ I enjoy escape rooms, logic puzzles, and building things that actually work
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/setthawut-jedsadaviriya-95a1892b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="setthawut-jedsadaviriya-95a1892b6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/setthawut-jedsadaviriya-2a390b3a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="setthawut-jedsadaviriya-95a1892b6" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
