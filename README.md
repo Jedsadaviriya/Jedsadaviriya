@@ -38,9 +38,6 @@
   <img height="165" src="https://github-stats-extended-frontend-six-taupe.vercel.app/api/top-langs/?username=Jedsadaviriya&layout=compact&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jedsadaviriya&hide_border=true" alt="jedsadaviriya" />
-</p>
 
 ---
 
